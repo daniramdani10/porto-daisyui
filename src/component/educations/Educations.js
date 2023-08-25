@@ -3,7 +3,7 @@ import React from "react";
 const Educations = () => {
   return (
     <>
-      <div className="container mx-auto p-2">
+      <div className="container mx-auto p-5">
         <h1 className="text-2xl font-bold orange">Educations</h1>
         <div className="flex flex-col w-full lg:flex-row mt-2">
           <div className="grid flex-grow card border border-orange-300 p-3 gap-2">
