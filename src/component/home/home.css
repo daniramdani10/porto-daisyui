@@ -1,0 +1,39 @@
+.foto-profile {
+  background: url(../../assets/profile.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 450px;
+  width: 400px;
+  height: 400px;
+  box-shadow: inset 0 0 0 9px rgb(255, 255, 255, 30%);
+  animation: profile__animate 8s ease-in-out infinite 1s;
+}
+@keyframes profile__animate {
+  0% {
+    border-radius: 60% 40% 30% 70%/ 60% 30% 70% 40%;
+    -webkit-border-radius: 60% 40% 30% 70%/ 60% 30% 70% 40%;
+    -moz-border-radius: 60% 40% 30% 70%/ 60% 30% 70% 40%;
+    -ms-border-radius: 60% 40% 30% 70%/ 60% 30% 70% 40%;
+    -o-border-radius: 60% 40% 30% 70%/ 60% 30% 70% 40%;
+  }
+  50% {
+    border-radius: 30% 60% 70% 40%/ 50% 60% 30% 60%;
+    -webkit-border-radius: 30% 60% 70% 40%/ 50% 60% 30% 60%;
+    -moz-border-radius: 30% 60% 70% 40%/ 50% 60% 30% 60%;
+    -ms-border-radius: 30% 60% 70% 40%/ 50% 60% 30% 60%;
+    -o-border-radius: 30% 60% 70% 40%/ 50% 60% 30% 60%;
+  }
+  100% {
+    border-radius: 60% 40% 30% 70%/ 60% 30% 70% 40%;
+    -webkit-border-radius: 60% 40% 30% 70%/ 60% 30% 70% 40%;
+    -moz-border-radius: 60% 40% 30% 70%/ 60% 30% 70% 40%;
+    -ms-border-radius: 60% 40% 30% 70%/ 60% 30% 70% 40%;
+    -o-border-radius: 60% 40% 30% 70%/ 60% 30% 70% 40%;
+  }
+}
+.orange {
+  color: #d97a0d;
+}
+.orange-bg {
+  background-color: #d97a0d;
+}
