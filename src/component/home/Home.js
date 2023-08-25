@@ -7,7 +7,7 @@ const Home = () => {
       <div className="container mx-auto p-2 hero-content flex-col lg:flex-row-reverse">
         <div className="foto-profile"></div>
         <div>
-          <h1 className="text-3xl font-bold">
+          <h1 className="text-4xl font-bold">
             <span className="orange">FRONT-END</span> DEVELOPER
           </h1>
           <p className="py-1">
