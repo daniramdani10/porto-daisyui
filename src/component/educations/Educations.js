@@ -3,9 +3,9 @@ import React from "react";
 const Educations = () => {
   return (
     <>
-      <div className="container mx-auto p-5">
+      <div className="container mx-auto px-10">
         <h1 className="text-2xl font-bold orange">Educations</h1>
-        <div className="flex flex-col w-full lg:flex-row mt-2">
+        <div className="flex flex-col w-full lg:flex-row mt-5">
           <div className="grid flex-grow card border border-orange-300 p-3 gap-2">
             <h1 className="text-lg font-bold">Kuningan University</h1>
             <h1 className="text-sm font-bold">
