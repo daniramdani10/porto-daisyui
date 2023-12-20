@@ -8,7 +8,7 @@ const Home = () => {
         <div className="foto-profile"></div>
         <div>
           <h1 className="text-4xl font-bold">
-            <span className="orange">FRONT-END</span> DEVELOPER
+            <span className="blue">FRONT-END</span> DEVELOPER
           </h1>
           <p className="py-1">
             A passionate Front-end Developer based in Jakarta.
