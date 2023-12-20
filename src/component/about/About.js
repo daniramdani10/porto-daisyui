@@ -4,7 +4,7 @@ const About = () => {
   return (
     <>
       <div className="container mx-auto px-10 py-5 pt-10">
-        <h1 className="text-2xl font-bold orange">About Me</h1>
+        <h1 className="text-2xl font-bold blue">About Me</h1>
         <p className="text-1xl mt-2">
           As Junior Front-End Developer, I possess an impressive arsenal of
           skills in HTML, CSS, JavaScript, React, Next13, Vue, Express. I excel
